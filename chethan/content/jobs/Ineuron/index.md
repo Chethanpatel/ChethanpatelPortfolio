@@ -6,7 +6,7 @@ range: 'July 2022 - Present'
 url: 'https://ineuron.ai/'
 ---
 
-- Introducing latest and modern technology to fellow students in our campus.
+- Introducing latest and modern technology to fellow students in our college campus.
 
 - Introducing different events, hackathons, quizzes on latest technology.
 
